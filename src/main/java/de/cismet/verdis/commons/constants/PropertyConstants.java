@@ -13,10 +13,18 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-public interface PropertyConstants {
+class PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    String PROP__ID = "id";
-    String DOT = ".";
+    public static final String PROP__ID = "id";
+    protected static final String DOT = ".";
+
+    //~ Constructors -----------------------------------------------------------
+
+    /**
+     * Creates a new PropertyConstants object.
+     */
+    protected PropertyConstants() {
+    }
 }

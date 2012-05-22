@@ -13,9 +13,17 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-public interface GeomPropertyConstants extends PropertyConstants {
+public final class GeomPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    String PROP__GEO_FIELD = "geo_field";
+    public static final String PROP__GEO_FIELD = "geo_field";
+
+    //~ Constructors -----------------------------------------------------------
+
+    /**
+     * Creates a new GeomPropertyConstants object.
+     */
+    private GeomPropertyConstants() {
+    }
 }

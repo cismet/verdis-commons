@@ -13,10 +13,18 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-public interface StrassePropertyConstants extends PropertyConstants {
+public final class StrassePropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    String PROP__SCHLUESSEL = "schluessel";
-    String PROP__NAME = "name";
+    public static final String PROP__SCHLUESSEL = "schluessel";
+    public static final String PROP__NAME = "name";
+
+    //~ Constructors -----------------------------------------------------------
+
+    /**
+     * Creates a new StrassePropertyConstants object.
+     */
+    private StrassePropertyConstants() {
+    }
 }
