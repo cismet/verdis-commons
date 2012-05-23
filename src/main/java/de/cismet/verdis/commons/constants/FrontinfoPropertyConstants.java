@@ -41,7 +41,10 @@ public final class FrontinfoPropertyConstants extends PropertyConstants {
     public static final String PROP__WD_VERANLAGUNG = "wd_veranlagung";
     public static final String PROP__GEOMETRIE = "geometrie";
     public static final String PROP__STRASSE = "strasse";
-    // public static final String PROP__SATZUNG = "satzung";
+    public static final String PROP__WD_BEM = "wd_bem";
+    public static final String PROP__SR_BEM = "sr_bem";
+    public static final String PROP__LAGE_WD = "lage_wd";
+    public static final String PROP__LAGE_SR = "lage_sr";
 
     public static final String PROP__GEOMETRIE__GEO_FIELD = PROP__GEOMETRIE + DOT
                 + GeomPropertyConstants.PROP__GEO_FIELD;
