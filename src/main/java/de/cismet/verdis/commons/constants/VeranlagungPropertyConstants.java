@@ -35,6 +35,24 @@ public final class VeranlagungPropertyConstants extends PropertyConstants {
 
     public static final String PROP__KASSENZEICHEN = "kassenzeichen";
     public static final String PROP__DATUM = "datum";
+    public static final String PROP__G_200 = "g_200";
+    public static final String PROP__G_100 = "g_100";
+    public static final String PROP__G305 = "g305";
+    public static final String PROP__G306 = "g306";
+    public static final String PROP__G310 = "g310";
+    public static final String PROP__G311 = "g311";
+    public static final String PROP__G315 = "g315";
+    public static final String PROP__G320 = "g320";
+    public static final String PROP__G321 = "g321";
+    public static final String PROP__G322 = "g322";
+    public static final String PROP__G325 = "g325";
+    public static final String PROP__G330 = "g330";
+    public static final String PROP__G335 = "g335";
+    public static final String PROP__G340 = "g340";
+    public static final String PROP__G345 = "g345";
+    public static final String PROP__G350 = "g350";
+    public static final String PROP__G361 = "g361";
+    public static final String PROP__G362 = "g362";
     public static final String PROP__G710 = "g710";
     public static final String PROP__G715 = "g715";
     public static final String PROP__G720 = "g720";
