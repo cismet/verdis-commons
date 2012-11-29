@@ -29,25 +29,21 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-public final class FortfuehrungPropertyConstants extends PropertyConstants {
+public final class FlaecheninfoPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__BEGINN = "beginn";
-    public static final String PROP__ANLASS = "anlass";
-    public static final String PROP__FLURSTUECK_ALT = "flurstueck_alt";
-    public static final String PROP__FLURSTUECK_NEU = "flurstueck_neu";
-    public static final String PROP__GEOMETRIEN = "geometrien";
-    public static final String PROP__DOKUMENTURL = "dokument";
-    public static final String PROP__IST_ABGEARBEITET = "ist_abgearbeitet";
-
-    public static final String PROP__ANLASS__NAME = PROP__ANLASS + "." + "name";
+    public static final String PROP__GROESSE_GRAFIK = "groesse_aus_grafik";
+    public static final String PROP__GROESSE_KORREKTUR = "groesse_korrektur";
+    public static final String PROP__GEOMETRIE = "geometrie";
+    public static final String PROP__ANSCHLUSSGRAD = "anschlussgrad";
+    public static final String PROP__FLAECHENART = "flaechenart";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
-     * Creates a new FortfuehrungPropertyConstants object.
+     * Creates a new RegenFlaechenPropertyConstants object.
      */
-    private FortfuehrungPropertyConstants() {
+    private FlaecheninfoPropertyConstants() {
     }
 }

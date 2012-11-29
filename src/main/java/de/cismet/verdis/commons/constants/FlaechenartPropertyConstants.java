@@ -13,17 +13,18 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-class PropertyConstants {
+public final class FlaechenartPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__ID = "id";
+    public static final String PROP__ART = "art";
+    public static final String PROP__ART_ABKUERZUNG = "art_abkuerzung";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
-     * Creates a new PropertyConstants object.
+     * Creates a new GeomPropertyConstants object.
      */
-    protected PropertyConstants() {
+    private FlaechenartPropertyConstants() {
     }
 }

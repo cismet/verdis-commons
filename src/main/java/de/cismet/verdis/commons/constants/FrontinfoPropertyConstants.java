@@ -45,20 +45,8 @@ public final class FrontinfoPropertyConstants extends PropertyConstants {
     public static final String PROP__SR_BEM = "sr_bem";
     public static final String PROP__LAGE_WD = "lage_wd";
     public static final String PROP__LAGE_SR = "lage_sr";
-
-    public static final String PROP__GEOMETRIE__GEO_FIELD = PROP__GEOMETRIE + DOT
-                + GeomPropertyConstants.PROP__GEO_FIELD;
-
-    // +
     public static final String PROP__SR_KLASSE_OR = "sr_klasse_or";
-    // ++
-    public static final String PROP__SR_KLASSE_OR__KEY = PROP__SR_KLASSE_OR + DOT + "key";
-    public static final String PROP__SR_KLASSE_OR__SCHLUESSEL = PROP__SR_KLASSE_OR + DOT + "schluessel";
-    // +
     public static final String PROP__WD_PRIO_OR = "wd_prio_or";
-    // ++
-    public static final String PROP__WD_PRIO_OR__KEY = PROP__WD_PRIO_OR + DOT + "key";
-    public static final String PROP__WD_PRIO_OR__SCHLUESSEL = PROP__WD_PRIO_OR + DOT + "schluessel";
 
     //~ Constructors -----------------------------------------------------------
 
