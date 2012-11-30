@@ -35,6 +35,7 @@ public final class VeranlagungPropertyConstants extends PropertyConstants {
 
     public static final String PROP__KASSENZEICHEN = "kassenzeichen";
     public static final String PROP__DATUM = "datum";
+    public static final String PROP__VERANLAGUNGSDATUM = "veranlagungsdatum";
     public static final String PROP__G_200 = "g_200";
     public static final String PROP__G_100 = "g_100";
     public static final String PROP__G305 = "g305";
