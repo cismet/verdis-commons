@@ -29,31 +29,20 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-public final class KassenzeichenPropertyConstants extends PropertyConstants {
+public final class KassenzeichenGeometriePropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__FLAECHEN = "flaechen";
-    public static final String PROP__FRONTEN = "fronten";
+    public static final String PROP__NAME = "name";
+    public static final String PROP__ISTFREI = "istfrei";
+    public static final String PROP__KASSENZEICHEN = "kassenzeichen";
     public static final String PROP__GEOMETRIE = "geometrie";
-    public static final String PROP__KASSENZEICHENNUMMER = "kassenzeichennummer8";
-    public static final String PROP__KASSENZEICHENNUMMER_OLD = "kassenzeichennummer";
-    public static final String PROP__KANALANSCHLUSS = "kanalanschluss";
-    public static final String PROP__DATUM_VERANLAGUNG = "datum_veranlagung";
-    public static final String PROP__DATUM_ERFASSUNG = "datum_erfassung";
-    public static final String PROP__BEMERKUNG = "bemerkung";
-    public static final String PROP__SPERRE = "sperre";
-    public static final String PROP__BEMERKUNG_SPERRE = "bemerkung_sperre";
-    public static final String PROP__LETZTE_AENDERUNG_TIMESTAMP = "letzte_aenderung_ts";
-    public static final String PROP__LETZTE_AENDERUNG_USER = "letzte_aenderung_von";
-    public static final String PROP__VERANLAGUNGSZETTEL = "veranlagungszettel";
-    public static final String PROP__KASSENZEICHEN_GEOMETRIEN = "kassenzeichen_geometrien";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
-     * Creates a new KassenzeichenPropertyConstants object.
+     * Creates a new FortfuehrungPropertyConstants object.
      */
-    private KassenzeichenPropertyConstants() {
+    private KassenzeichenGeometriePropertyConstants() {
     }
 }
