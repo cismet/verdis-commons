@@ -36,8 +36,6 @@ public final class KassenzeichenPropertyConstants extends PropertyConstants {
     public static final String PROP__FLAECHEN = "flaechen";
     public static final String PROP__FRONTEN = "fronten";
     public static final String PROP__GEOMETRIE = "geometrie";
-    public static final String PROP__GEOMETRIE__GEO_FIELD = PROP__GEOMETRIE + DOT
-                + GeomPropertyConstants.PROP__GEO_FIELD;
     public static final String PROP__KASSENZEICHENNUMMER = "kassenzeichennummer8";
     public static final String PROP__KASSENZEICHENNUMMER_OLD = "kassenzeichennummer";
     public static final String PROP__KANALANSCHLUSS = "kanalanschluss";
@@ -48,6 +46,8 @@ public final class KassenzeichenPropertyConstants extends PropertyConstants {
     public static final String PROP__BEMERKUNG_SPERRE = "bemerkung_sperre";
     public static final String PROP__LETZTE_AENDERUNG_TIMESTAMP = "letzte_aenderung_ts";
     public static final String PROP__LETZTE_AENDERUNG_USER = "letzte_aenderung_von";
+    public static final String PROP__VERANLAGUNGSZETTEL = "veranlagungszettel";
+    public static final String PROP__KASSENZEICHEN_GEOMETRIEN = "kassenzeichen_geometrien";
 
     //~ Constructors -----------------------------------------------------------
 

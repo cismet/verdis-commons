@@ -29,7 +29,7 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-public final class RegenFlaechenPropertyConstants extends PropertyConstants {
+public final class FlaechePropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
@@ -42,36 +42,12 @@ public final class RegenFlaechenPropertyConstants extends PropertyConstants {
     public static final String PROP__DATUM_ERFASSUNG = "datum_erfassung";
     public static final String PROP__DATUM_VERANLAGUNG = "datum_veranlagung";
     public static final String PROP__FLAECHENINFO = "flaecheninfo";
-    // +
-    public static final String PROP__FLAECHENINFO__ID = PROP__FLAECHENINFO + DOT + PROP__ID;
-    public static final String PROP__FLAECHENINFO__GROESSE_GRAFIK = PROP__FLAECHENINFO + DOT + "groesse_aus_grafik";
-    public static final String PROP__FLAECHENINFO__GROESSE_KORREKTUR = PROP__FLAECHENINFO + DOT + "groesse_korrektur";
-    public static final String PROP__FLAECHENINFO__GEOMETRIE = PROP__FLAECHENINFO + DOT + "geometrie";
-    // ++
-    public static final String PROP__FLAECHENINFO__GEOMETRIE__GEO_FIELD = PROP__FLAECHENINFO__GEOMETRIE + DOT
-                + GeomPropertyConstants.PROP__GEO_FIELD;
-    // +
-    public static final String PROP__FLAECHENINFO__ANSCHLUSSGRAD = PROP__FLAECHENINFO + DOT + "anschlussgrad";
-    // ++
-    public static final String PROP__FLAECHENINFO__ANSCHLUSSGRAD__ID = PROP__FLAECHENINFO__ANSCHLUSSGRAD + DOT
-                + PROP__ID;
-    public static final String PROP__FLAECHENINFO__ANSCHLUSSGRAD__GRAD = PROP__FLAECHENINFO__ANSCHLUSSGRAD + DOT
-                + "grad";
-    public static final String PROP__FLAECHENINFO__ANSCHLUSSGRAD__ABKUERZUNG = PROP__FLAECHENINFO__ANSCHLUSSGRAD + DOT
-                + "grad_abkuerzung";
-    // +
-    public static final String PROP__FLAECHENINFO__FLAECHENART = PROP__FLAECHENINFO + DOT + "flaechenart";
-    // ++
-    public static final String PROP__FLAECHENINFO__FLAECHENART__ID = PROP__FLAECHENINFO__FLAECHENART + DOT + PROP__ID;
-    public static final String PROP__FLAECHENINFO__FLAECHENART__ART = PROP__FLAECHENINFO__FLAECHENART + DOT + "art";
-    public static final String PROP__FLAECHENINFO__FLAECHENART__ABKUERZUNG = PROP__FLAECHENINFO__FLAECHENART + DOT
-                + "art_abkuerzung";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
      * Creates a new RegenFlaechenPropertyConstants object.
      */
-    private RegenFlaechenPropertyConstants() {
+    private FlaechePropertyConstants() {
     }
 }
