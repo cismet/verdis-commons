@@ -43,6 +43,7 @@ public final class VerdisMetaClassConstants {
     public static final String MC_FORTFUEHRUNG_ANLASS = "fortfuehrung_anlass";
     public static final String MC_KASSENZEICHEN_GEOMETRIE = "kassenzeichen_geometrie";
     public static final String MC_FLAECHENINFO = "flaecheninfo";
+    public static final String MC_FRONT = "front";
     public static final String MC_FRONTINFO = "frontinfo";
     public static final String MC_STRASSE = "strasse";
     public static final String MC_SATZUNG = "satzung";
