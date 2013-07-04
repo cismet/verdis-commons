@@ -34,9 +34,9 @@ public final class FrontPropertyConstants extends PropertyConstants {
     //~ Static fields/initializers ---------------------------------------------
 
     public static final String PROP__FRONTINFO = "frontinfo";
-    public static final String PROP__LAENGE_GRAFIK = "laenge_grafik";
-    public static final String PROP__LAENGE_KORREKTUR = "laenge_korrektur";
-    public static final String PROP__GEOMETRIE = "geometrie";
+    public static final String PROP__ERFASSUNGSDATUM = "erfassungsdatum";
+    public static final String PROP__BEARBEITET_DURCH = "bearbeitet_durch";
+    public static final String PROP__NUMMER = "nummer";
 
     //~ Constructors -----------------------------------------------------------
 

@@ -33,7 +33,7 @@ public final class FrontenPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__FRONT_INFO = "frontinfo";
+    public static final String PROP__FRONT = "front";
     public static final String PROP__KASSENZEICHEN_REFERENCE = "kassenzeichen_reference";
 
     //~ Constructors -----------------------------------------------------------

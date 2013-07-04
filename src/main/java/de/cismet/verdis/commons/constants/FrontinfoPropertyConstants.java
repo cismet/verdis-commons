@@ -33,8 +33,6 @@ public final class FrontinfoPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__NUMMER = "nummer";
-    public static final String PROP__ERFASSUNGSDATUM = "erfassungsdatum";
     public static final String PROP__SR_VERANLAGUNG = "sr_veranlagung";
     public static final String PROP__WD_VERANLAGUNG = "wd_veranlagung";
     public static final String PROP__STRASSE = "strasse";
@@ -44,6 +42,9 @@ public final class FrontinfoPropertyConstants extends PropertyConstants {
     public static final String PROP__LAGE_SR = "lage_sr";
     public static final String PROP__SR_KLASSE_OR = "sr_klasse_or";
     public static final String PROP__WD_PRIO_OR = "wd_prio_or";
+    public static final String PROP__LAENGE_GRAFIK = "laenge_grafik";
+    public static final String PROP__LAENGE_KORREKTUR = "laenge_korrektur";
+    public static final String PROP__GEOMETRIE = "geometrie";
 
     //~ Constructors -----------------------------------------------------------
 
