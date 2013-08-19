@@ -29,23 +29,18 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-public final class FortfuehrungPropertyConstants extends PropertyConstants {
+public final class FortfuehrungAnlassPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__BEGINN = "beginn";
-    public static final String PROP__ANLASS = "anlass";
-    public static final String PROP__FLURSTUECK_ALT = "flurstueck_alt";
-    public static final String PROP__FLURSTUECK_NEU = "flurstueck_neu";
-    public static final String PROP__GEOMETRIEN = "geometrien";
-    public static final String PROP__DOKUMENTURL = "dokument";
-    public static final String PROP__IST_ABGEARBEITET = "ist_abgearbeitet";
+    public static final String PROP__NAME = "name";
+    public static final String PROP__SCHLUESSEL = "schluessel";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
      * Creates a new FortfuehrungPropertyConstants object.
      */
-    private FortfuehrungPropertyConstants() {
+    private FortfuehrungAnlassPropertyConstants() {
     }
 }

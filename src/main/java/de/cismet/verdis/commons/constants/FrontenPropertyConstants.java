@@ -6,7 +6,7 @@
 *
 ****************************************************/
 /*
- *  Copyright (C) 2011 jruiz
+ *  Copyright (C) 2013 gbaatz
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
@@ -26,26 +26,21 @@ package de.cismet.verdis.commons.constants;
 /**
  * DOCUMENT ME!
  *
- * @author   jruiz
+ * @author   gbaatz
  * @version  $Revision$, $Date$
  */
-public final class FortfuehrungPropertyConstants extends PropertyConstants {
+public final class FrontenPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__BEGINN = "beginn";
-    public static final String PROP__ANLASS = "anlass";
-    public static final String PROP__FLURSTUECK_ALT = "flurstueck_alt";
-    public static final String PROP__FLURSTUECK_NEU = "flurstueck_neu";
-    public static final String PROP__GEOMETRIEN = "geometrien";
-    public static final String PROP__DOKUMENTURL = "dokument";
-    public static final String PROP__IST_ABGEARBEITET = "ist_abgearbeitet";
+    public static final String PROP__FRONT = "front";
+    public static final String PROP__KASSENZEICHEN_REFERENCE = "kassenzeichen_reference";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
-     * Creates a new FortfuehrungPropertyConstants object.
+     * Creates a new FrontinfoPropertyConstants object.
      */
-    private FortfuehrungPropertyConstants() {
+    private FrontenPropertyConstants() {
     }
 }
