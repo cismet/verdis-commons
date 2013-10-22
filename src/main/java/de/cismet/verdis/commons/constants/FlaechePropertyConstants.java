@@ -39,7 +39,7 @@ public final class FlaechePropertyConstants extends PropertyConstants {
     public static final String PROP__BEMERKUNG_SPERRE = "bemerkung_sperre";
     public static final String PROP__FLAECHENBEZEICHNUNG = "flaechenbezeichnung";
     public static final String PROP__ANTEIL = "anteil";
-    public static final String PROP__DATUM_ERFASSUNG = "datum_erfassung";
+    public static final String PROP__DATUM_AENDERUNG = "datum_erfassung";
     public static final String PROP__DATUM_VERANLAGUNG = "datum_veranlagung";
     public static final String PROP__FLAECHENINFO = "flaecheninfo";
 
