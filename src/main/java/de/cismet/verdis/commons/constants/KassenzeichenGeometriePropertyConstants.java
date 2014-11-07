@@ -41,7 +41,7 @@ public final class KassenzeichenGeometriePropertyConstants extends PropertyConst
     //~ Constructors -----------------------------------------------------------
 
     /**
-     * Creates a new FortfuehrungPropertyConstants object.
+     * Creates a new KassenzeichenGeometriePropertyConstants object.
      */
     private KassenzeichenGeometriePropertyConstants() {
     }
