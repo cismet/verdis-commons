@@ -35,7 +35,6 @@ public final class KassenzeichenPropertyConstants extends PropertyConstants {
 
     public static final String PROP__FLAECHEN = "flaechen";
     public static final String PROP__FRONTEN = "fronten";
-    public static final String PROP__GEOMETRIE = "geometrie";
     public static final String PROP__KASSENZEICHENNUMMER = "kassenzeichennummer8";
     public static final String PROP__KASSENZEICHENNUMMER_OLD = "kassenzeichennummer";
     public static final String PROP__KANALANSCHLUSS = "kanalanschluss";
