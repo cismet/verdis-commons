@@ -53,6 +53,8 @@ public final class VerdisMetaClassConstants {
     public static final String MC_KANALANSCHLUSS = "kanalanschluss";
     public static final String MC_VERANLAGUNG = "veranlagung";
     public static final String MC_VERANLAGUNGSGRUNDLAGE = "veranlagungsgrundlage";
+    public static final String MC_ARBEITSPAKET = "arbeitspaket";
+    public static final String MC_ARBEITSPAKET_EINTRAG = "arbeitspaket_eintrag";
 
     //~ Constructors -----------------------------------------------------------
 
