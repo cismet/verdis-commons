@@ -1,4 +1,4 @@
-verdis-commons
+verdis-commons [![Build Status](http://ci.cismet.de/buildStatus/icon?job=verdis-commons)](https://ci.cismet.de/job/verdis-commons/)
 ==============
 
 Common customizations of the VerDIS system.

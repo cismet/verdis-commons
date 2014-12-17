@@ -39,8 +39,6 @@ public final class VerdisMetaClassConstants {
     public static final String MC_FLAECHENART = "flaechenart";
     public static final String MC_FLAECHE = "flaeche";
     public static final String MC_FLAECHEN = "flaechen";
-    public static final String MC_FORTFUEHRUNG = "fortfuehrung";
-    public static final String MC_FORTFUEHRUNG_ANLASS = "fortfuehrung_anlass";
     public static final String MC_KASSENZEICHEN_GEOMETRIE = "kassenzeichen_geometrie";
     public static final String MC_FLAECHENINFO = "flaecheninfo";
     public static final String MC_FRONT = "front";
@@ -55,6 +53,8 @@ public final class VerdisMetaClassConstants {
     public static final String MC_KANALANSCHLUSS = "kanalanschluss";
     public static final String MC_VERANLAGUNG = "veranlagung";
     public static final String MC_VERANLAGUNGSGRUNDLAGE = "veranlagungsgrundlage";
+    public static final String MC_ARBEITSPAKET = "arbeitspaket";
+    public static final String MC_ARBEITSPAKET_EINTRAG = "arbeitspaket_eintrag";
 
     //~ Constructors -----------------------------------------------------------
 
