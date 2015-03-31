@@ -52,7 +52,11 @@ public final class VerdisMetaClassConstants {
     public static final String MC_KASSENZEICHEN = "kassenzeichen";
     public static final String MC_KANALANSCHLUSS = "kanalanschluss";
     public static final String MC_VERANLAGUNG = "veranlagung";
+    public static final String MC_VERANLAGUNG_NEU = "veranlagung_neu";
     public static final String MC_VERANLAGUNGSGRUNDLAGE = "veranlagungsgrundlage";
+    public static final String MC_VERANLAGUNGSNUMMER = "veranlagungsnummer";
+    public static final String MC_VERANLAGUNGSEINTRAG = "veranlagungseintrag";
+    public static final String MC_VERANLAGUNGSPOSTEN = "veranlagungsposten";
     public static final String MC_ARBEITSPAKET = "arbeitspaket";
     public static final String MC_ARBEITSPAKET_EINTRAG = "arbeitspaket_eintrag";
 
