@@ -29,20 +29,21 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-public final class VeranlagungsgrundlagePropertyConstants extends PropertyConstants {
+public final class VeranlagungseintragPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__FLAECHENART = "flaechenart";
-    public static final String PROP__ANSCHLUSSGRAD = "anschlussgrad";
-    public static final String PROP__VERANLAGUNGSSCHLUESSEL = "veranlagungsschluessel";
-    public static final String PROP__VERANLAGUNGSNUMMER = "veranlagungsnummer";
+    public static final String PROP__KASSENZEICHEN = "kassenzeichen";
+    public static final String PROP__DATUM = "datum";
+    public static final String PROP__VERANLAGUNGSDATUM = "veranlagungsdatum";
+    public static final String PROP__POSTEN = "posten";
+    public static final String PROP__IST_VERANLAGT = "ist_veranlagt";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
      * Creates a new KassenzeichenPropertyConstants object.
      */
-    private VeranlagungsgrundlagePropertyConstants() {
+    private VeranlagungseintragPropertyConstants() {
     }
 }
