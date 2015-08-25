@@ -59,6 +59,7 @@ public final class VerdisMetaClassConstants {
     public static final String MC_VERANLAGUNGSPOSTEN = "veranlagungsposten";
     public static final String MC_ARBEITSPAKET = "arbeitspaket";
     public static final String MC_ARBEITSPAKET_EINTRAG = "arbeitspaket_eintrag";
+    public static final String MC_FORTFUEHRUNG = "fortfuehrung";
 
     //~ Constructors -----------------------------------------------------------
 
