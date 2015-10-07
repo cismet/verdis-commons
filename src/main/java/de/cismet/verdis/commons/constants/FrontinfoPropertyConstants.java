@@ -44,6 +44,12 @@ public final class FrontinfoPropertyConstants extends PropertyConstants {
     public static final String PROP__WD_PRIO_OR = "wd_prio_or";
     public static final String PROP__LAENGE_GRAFIK = "laenge_grafik";
     public static final String PROP__LAENGE_KORREKTUR = "laenge_korrektur";
+    public static final String PROP__GARAGE_STELLPLATZ = "garaga_stellplatz";
+    public static final String PROP__BAULASTEN = "baulasten";
+    public static final String PROP__GRUNDDIENSTBARKEIT = "grunddienstbarkeit";
+    public static final String PROP__ANTEIL = "anteil";
+    public static final String PROP__QUADRATWURZEL = "quadratwurzel";
+    public static final String PROP__WINKEL = "winkel";
     public static final String PROP__GEOMETRIE = "geometrie";
 
     //~ Constructors -----------------------------------------------------------
