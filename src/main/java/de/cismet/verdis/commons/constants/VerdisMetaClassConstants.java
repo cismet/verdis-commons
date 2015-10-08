@@ -47,7 +47,6 @@ public final class VerdisMetaClassConstants {
     public static final String MC_STRASSE = "strasse";
     public static final String MC_SATZUNG = "satzung";
     public static final String MC_STRASSENREINIGUNG = "strassenreinigung";
-    public static final String MC_WINTERDIENST = "winterdienst";
     public static final String MC_ANSCHLUSSSTATUS = "anschlussstatus";
     public static final String MC_KASSENZEICHEN = "kassenzeichen";
     public static final String MC_KANALANSCHLUSS = "kanalanschluss";
