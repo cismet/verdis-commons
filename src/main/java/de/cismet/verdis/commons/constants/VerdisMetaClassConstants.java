@@ -44,6 +44,15 @@ public final class VerdisMetaClassConstants {
     public static final String MC_FRONT = "front";
     public static final String MC_FRONTEN = "fronten";
     public static final String MC_FRONTINFO = "frontinfo";
+    public static final String MC_BEFREIUNGERLAUBNIS = "befreiungerlaubnis";
+    public static final String MC_BEFREIUNGERLAUBNISARRAY = "befreiungerlaubnisarray";
+    public static final String MC_BEFREIUNGERLAUBNIS_GEOMETRIE = "befreiungerlaubnis_geometrie";
+    public static final String MC_BEFREIUNGERLAUBNIS_GEOMETRIE_ART = "befreiungerlaubnis_geometrie_art";
+    public static final String MC_BEFREIUNGERLAUBNIS_GEOMETRIE_TYP_EINLEITUNG =
+        "befreiungerlaubnis_geometrie_typ_einleitung";
+    public static final String MC_BEFREIUNGERLAUBNIS_GEOMETRIE_TYP_VERSICKERUNG =
+        "befreiungerlaubnis_geometrie_typ_versickerung";
+    public static final String MC_BEFREIUNGERLAUBNIS_NUTZUNG = "befreiungerlaubnis_nutzung";
     public static final String MC_STRASSE = "strasse";
     public static final String MC_SATZUNG = "satzung";
     public static final String MC_STRASSENREINIGUNG = "strassenreinigung";
