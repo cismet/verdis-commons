@@ -13,17 +13,19 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-class PropertyConstants {
+public final class ArbeitspaketEintragPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__ID = "id";
+    public static final String PROP__KASSENZEICHENNUMMER = "kassenzeichennummer";
+    public static final String PROP__FK_ARBEITSPAKET = "fk_arbeitspaket";
+    public static final String PROP__IST_ABGEARBEITET = "ist_abgearbeitet";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
-     * Creates a new PropertyConstants object.
+     * Creates a new GeomPropertyConstants object.
      */
-    protected PropertyConstants() {
+    private ArbeitspaketEintragPropertyConstants() {
     }
 }

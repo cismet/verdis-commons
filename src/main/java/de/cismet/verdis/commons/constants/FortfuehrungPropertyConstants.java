@@ -33,20 +33,15 @@ public final class FortfuehrungPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__BEGINN = "beginn";
-    public static final String PROP__ANLASS = "anlass";
-    public static final String PROP__FLURSTUECK_ALT = "flurstueck_alt";
-    public static final String PROP__FLURSTUECK_NEU = "flurstueck_neu";
-    public static final String PROP__GEOMETRIEN = "geometrien";
-    public static final String PROP__DOKUMENTURL = "dokument";
-    public static final String PROP__IST_ABGEARBEITET = "ist_abgearbeitet";
-
-    public static final String PROP__ANLASS_NAME = PROP__ANLASS + DOT + "name";
+    public static final String PROP__ALKIS_FFN_ID = "alkis_ffn_id";
+    public static final String PROP__FLURSTUECK_ID = "flurstueck_id";
+    public static final String PROP__ABGEARBEITET_AM = "abgearbeitet_am";
+    public static final String PROP__ABGEARBEITET_VON = "abgearbeitet_von";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
-     * Creates a new FortfuehrungPropertyConstants object.
+     * Creates a new KassenzeichenPropertyConstants object.
      */
     private FortfuehrungPropertyConstants() {
     }

@@ -29,30 +29,25 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-public final class FrontinfoPropertyConstants extends PropertyConstants {
+public final class BefreiungerlaubnisGeometriePropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__SR_VERANLAGUNG = "sr_veranlagung";
-    public static final String PROP__STRASSE = "strasse";
-    public static final String PROP__SR_BEM = "sr_bem";
-    public static final String PROP__LAGE_SR = "lage_sr";
-    public static final String PROP__SR_KLASSE_OR = "sr_klasse_or";
-    public static final String PROP__LAENGE_GRAFIK = "laenge_grafik";
-    public static final String PROP__LAENGE_KORREKTUR = "laenge_korrektur";
-    public static final String PROP__GARAGE_STELLPLATZ = "garage_stellplatz";
-    public static final String PROP__BAULASTEN = "baulasten";
-    public static final String PROP__GRUNDDIENSTBARKEIT = "grunddienstbarkeit";
-    public static final String PROP__ANTEIL = "anteil";
-    public static final String PROP__QUADRATWURZEL = "quadratwurzel";
-    public static final String PROP__WINKEL = "winkel";
+    public static final String PROP__GEWAESSERNAME = "gewaessername";
+    public static final String PROP__GUTACHTEN_VORHANDEN = "gutachten_vorhanden";
     public static final String PROP__GEOMETRIE = "geometrie";
+    public static final String PROP__DURCHFLUSS = "durchfluss";
+    public static final String PROP__TYP_EINLEITUNG = "typ_einleitung";
+    public static final String PROP__TYP_VERSICKERUNG = "typ_versickerung";
+    public static final String PROP__BEFREIUNGERLAUBNIS = "befreiungerlaubnis";
+    public static final String PROP__FILTERKONSTANTE = "filterkonstante";
+    public static final String PROP__BEMERKUNG = "bemerkung";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
      * Creates a new FrontinfoPropertyConstants object.
      */
-    private FrontinfoPropertyConstants() {
+    private BefreiungerlaubnisGeometriePropertyConstants() {
     }
 }

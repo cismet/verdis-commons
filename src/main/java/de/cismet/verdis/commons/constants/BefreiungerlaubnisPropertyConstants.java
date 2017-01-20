@@ -29,30 +29,21 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-public final class FrontinfoPropertyConstants extends PropertyConstants {
+public final class BefreiungerlaubnisPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__SR_VERANLAGUNG = "sr_veranlagung";
-    public static final String PROP__STRASSE = "strasse";
-    public static final String PROP__SR_BEM = "sr_bem";
-    public static final String PROP__LAGE_SR = "lage_sr";
-    public static final String PROP__SR_KLASSE_OR = "sr_klasse_or";
-    public static final String PROP__LAENGE_GRAFIK = "laenge_grafik";
-    public static final String PROP__LAENGE_KORREKTUR = "laenge_korrektur";
-    public static final String PROP__GARAGE_STELLPLATZ = "garage_stellplatz";
-    public static final String PROP__BAULASTEN = "baulasten";
-    public static final String PROP__GRUNDDIENSTBARKEIT = "grunddienstbarkeit";
-    public static final String PROP__ANTEIL = "anteil";
-    public static final String PROP__QUADRATWURZEL = "quadratwurzel";
-    public static final String PROP__WINKEL = "winkel";
-    public static final String PROP__GEOMETRIE = "geometrie";
+    public static final String PROP__AKTENZEICHEN = "aktenzeichen";
+    public static final String PROP__GUELTIG_BIS = "gueltig_bis";
+    public static final String PROP__ANTRAG_VOM = "antrag_vom";
+    public static final String PROP__NUTZUNG = "nutzung";
+    public static final String PROP__GEOMETRIEN = "geometrien";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
      * Creates a new FrontinfoPropertyConstants object.
      */
-    private FrontinfoPropertyConstants() {
+    private BefreiungerlaubnisPropertyConstants() {
     }
 }

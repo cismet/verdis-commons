@@ -38,15 +38,36 @@ public final class VerdisMetaClassConstants {
     public static final String MC_ANSCHLUSSGRAD = "anschlussgrad";
     public static final String MC_FLAECHENART = "flaechenart";
     public static final String MC_FLAECHE = "flaeche";
+    public static final String MC_FLAECHEN = "flaechen";
+    public static final String MC_KASSENZEICHEN_GEOMETRIE = "kassenzeichen_geometrie";
     public static final String MC_FLAECHENINFO = "flaecheninfo";
+    public static final String MC_FRONT = "front";
+    public static final String MC_FRONTEN = "fronten";
     public static final String MC_FRONTINFO = "frontinfo";
+    public static final String MC_BEFREIUNGERLAUBNIS = "befreiungerlaubnis";
+    public static final String MC_BEFREIUNGERLAUBNISARRAY = "befreiungerlaubnisarray";
+    public static final String MC_BEFREIUNGERLAUBNIS_GEOMETRIE = "befreiungerlaubnis_geometrie";
+    public static final String MC_BEFREIUNGERLAUBNIS_GEOMETRIE_ART = "befreiungerlaubnis_geometrie_art";
+    public static final String MC_BEFREIUNGERLAUBNIS_GEOMETRIE_TYP_EINLEITUNG =
+        "befreiungerlaubnis_geometrie_typ_einleitung";
+    public static final String MC_BEFREIUNGERLAUBNIS_GEOMETRIE_TYP_VERSICKERUNG =
+        "befreiungerlaubnis_geometrie_typ_versickerung";
+    public static final String MC_BEFREIUNGERLAUBNIS_NUTZUNG = "befreiungerlaubnis_nutzung";
     public static final String MC_STRASSE = "strasse";
     public static final String MC_SATZUNG = "satzung";
     public static final String MC_STRASSENREINIGUNG = "strassenreinigung";
-    public static final String MC_WINTERDIENST = "winterdienst";
     public static final String MC_ANSCHLUSSSTATUS = "anschlussstatus";
     public static final String MC_KASSENZEICHEN = "kassenzeichen";
     public static final String MC_KANALANSCHLUSS = "kanalanschluss";
+    public static final String MC_VERANLAGUNG = "veranlagung";
+    public static final String MC_VERANLAGUNG_NEU = "veranlagung_neu";
+    public static final String MC_VERANLAGUNGSGRUNDLAGE = "veranlagungsgrundlage";
+    public static final String MC_VERANLAGUNGSNUMMER = "veranlagungsnummer";
+    public static final String MC_VERANLAGUNGSEINTRAG = "veranlagungseintrag";
+    public static final String MC_VERANLAGUNGSPOSTEN = "veranlagungsposten";
+    public static final String MC_ARBEITSPAKET = "arbeitspaket";
+    public static final String MC_ARBEITSPAKET_EINTRAG = "arbeitspaket_eintrag";
+    public static final String MC_FORTFUEHRUNG = "fortfuehrung";
 
     //~ Constructors -----------------------------------------------------------
 
