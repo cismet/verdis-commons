@@ -54,4 +54,7 @@
             </snapshots>
         </repository>
     </repositories>
+    <build>
+        <finalName>verdis-commons-2.0-SNAPSHOT</finalName>
+    </build>    
 </project>
