@@ -29,19 +29,18 @@ package de.cismet.verdis.commons.constants;
  * @author   jruiz
  * @version  $Revision$, $Date$
  */
-public final class KassenzeichenGeometriePropertyConstants extends PropertyConstants {
+public final class KassenzeichenGeometrienPropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__NAME = "name";
-    public static final String PROP__ISTFREI = "istfrei";
-    public static final String PROP__GEOMETRIE = "geometrie";
+    public static final String PROP__KASSENZEICHEN_REFERENCE = "kassenzeichen_reference";
+    public static final String PROP__KASSENZEICHEN_GEOMETRIE = "kassenzeichen_geometrie";
 
     //~ Constructors -----------------------------------------------------------
 
     /**
      * Creates a new KassenzeichenGeometriePropertyConstants object.
      */
-    private KassenzeichenGeometriePropertyConstants() {
+    private KassenzeichenGeometrienPropertyConstants() {
     }
 }
