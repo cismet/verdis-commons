@@ -34,6 +34,7 @@ public final class FortfuehrungPropertyConstants extends PropertyConstants {
     //~ Static fields/initializers ---------------------------------------------
 
     public static final String PROP__ALKIS_FFN_ID = "alkis_ffn_id";
+    public static final String PROP__ALKIS_FFN = "alkis_ffn";
     public static final String PROP__FLURSTUECK_ID = "flurstueck_id";
     public static final String PROP__ABGEARBEITET_AM = "abgearbeitet_am";
     public static final String PROP__ABGEARBEITET_VON = "abgearbeitet_von";
