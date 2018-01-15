@@ -8,12 +8,12 @@
     <parent>
         <groupId>de.cismet.cids</groupId>
         <artifactId>cids-parent</artifactId>
-        <version>5.0</version>
+        <version>6.0</version>
     </parent>
 
     <groupId>de.cismet.verdis</groupId>
     <artifactId>verdis-commons</artifactId>
-    <version>5.0.2</version>
+    <version>6.0</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -27,7 +27,7 @@
         <connection>https://github.com/cismet/verdis-commons.git</connection>
         <developerConnection>scm:git:git@github.com:cismet/verdis-commons.git</developerConnection>
         <url>https://github.com/cismet/verdis-commons</url>
-        <tag>v5.0.2</tag>
+        <tag>v6.0</tag>
     </scm>
     
     <build>
