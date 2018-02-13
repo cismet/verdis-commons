@@ -19,7 +19,7 @@
     <properties>
         <names.verdis-commons>VerDIS Commons</names.verdis-commons>
     </properties>
-    <name>${names.verdis-commons}</name>
+    <name>${names.verdis-commons} [${project.version}]</name>
 
     <description>!!! description pending !!!</description>
     
