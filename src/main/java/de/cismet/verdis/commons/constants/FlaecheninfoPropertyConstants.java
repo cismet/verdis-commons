@@ -36,6 +36,7 @@ public final class FlaecheninfoPropertyConstants extends PropertyConstants {
     public static final String PROP__GROESSE_GRAFIK = "groesse_aus_grafik";
     public static final String PROP__GROESSE_KORREKTUR = "groesse_korrektur";
     public static final String PROP__GEOMETRIE = "geometrie";
+    public static final String PROP__NACHGEWIESEN = "nachgewiesen";
     public static final String PROP__ANSCHLUSSGRAD = "anschlussgrad";
     public static final String PROP__FLAECHENART = "flaechenart";
     public static final String PROP__BESCHREIBUNG = "beschreibung";
