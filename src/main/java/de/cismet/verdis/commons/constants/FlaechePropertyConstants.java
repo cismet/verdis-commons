@@ -33,10 +33,7 @@ public final class FlaechePropertyConstants extends PropertyConstants {
 
     //~ Static fields/initializers ---------------------------------------------
 
-    public static final String PROP__FEB_ID = "feb_id";
     public static final String PROP__BEMERKUNG = "bemerkung";
-    public static final String PROP__SPERRE = "sperre";
-    public static final String PROP__BEMERKUNG_SPERRE = "bemerkung_sperre";
     public static final String PROP__FLAECHENBEZEICHNUNG = "flaechenbezeichnung";
     public static final String PROP__ANTEIL = "anteil";
     public static final String PROP__DATUM_AENDERUNG = "datum_erfassung";
