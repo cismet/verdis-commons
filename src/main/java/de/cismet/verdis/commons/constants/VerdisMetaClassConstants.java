@@ -34,6 +34,7 @@ public final class VerdisMetaClassConstants {
     //~ Static fields/initializers ---------------------------------------------
 
     public static final String MC_GEOM = "geom";
+    public static final String MC_AENDERUNGSANFRAGE = "aenderungsanfrage";
     public static final String MC_FLAECHENBESCHREIBUNG = "flaechenbeschreibung";
     public static final String MC_ANSCHLUSSGRAD = "anschlussgrad";
     public static final String MC_FLAECHENART = "flaechenart";
